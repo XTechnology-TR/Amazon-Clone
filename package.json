@@ -12,7 +12,7 @@
     "@tailwindcss/line-clamp": "^0.2.0",
     "firebase": "^8.10.0",
     "firebase-admin": "^9.8.0",
-    "next": "latest",
+    "next": "14.2.15",
     "next-auth": "^3.29.0",
     "react": "17.0.1",
     "react-currency-formatter": "^1.1.0",
